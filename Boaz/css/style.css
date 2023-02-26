@@ -1,6 +1,40 @@
 /********************  Boaz formating start **********************/
 
 
+/********************  Display none elem  start **********************/
+
+.welcome-one__points-box,
+.welcome-one-shape-2 img,
+.grow-and-experience-two__list,
+.we-shape__bottom {
+    display: none;
+}
+
+
+/********************  Display none elem end **********************/
+
+
+/********************  Welcome start end **********************/
+
+.welcome-one__text-2 {
+    margin-bottom: 2em;
+}
+
+
+/********************  Welcome end **********************/
+
+
+/********************  Services start **********************/
+
+.services-one__single {
+    max-width: 100%;
+    margin-bottom: 2em;
+}
+
+
+/********************  Services end **********************/
+
+
 /********************  Media start **********************/
 
 @media screen and (max-width: 767px) {}

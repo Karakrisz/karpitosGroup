@@ -8,7 +8,7 @@
                     <div class="row">
                         <div class="col-xl-4 col-lg-2">
                             <div class="site-footer__top-logo">
-                                <a href="index.html"><img src="assets/images/resources/footer-logo-1.jpg" alt=""></a>
+                                <a href="index.html"><img src="assets/images/resources/footer-logo-1.jpg" alt="Kárpitos Group"></a>
                             </div>
                         </div>
                         <div class="col-xl-8 col-lg-10">
@@ -106,7 +106,7 @@
 
                 <div class="logo-box">
                     <a href="index.html" aria-label="logo image"><img src="assets/images/resources/logo-3.png"
-                            width="155" alt="" /></a>
+                            width="155" alt="Kárpitos Group" /></a>
                 </div>
                 <!-- /.logo-box -->
                 <div class="mobile-nav__container"></div>

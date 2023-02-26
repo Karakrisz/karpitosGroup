@@ -3,7 +3,6 @@
 function homeController()
 {
 
-
     return [
         "home",
         [
@@ -11,6 +10,40 @@ function homeController()
         ]
     ];
 }
+
+function aboutController()
+{
+
+    return [
+        "vallalatrol",
+        [
+            "title" => "A vállalatról"
+        ]
+    ];
+}
+
+function projectsController()
+{
+
+    return [
+        "projektek",
+        [
+            "title" => "Projektek"
+        ]
+    ];
+}
+
+function contactController()
+{
+
+    return [
+        "kapcsolat",
+        [
+            "title" => "Kapcsolat"
+        ]
+    ];
+}
+
 
 function notFoundController()
 {

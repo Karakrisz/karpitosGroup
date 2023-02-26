@@ -14,9 +14,11 @@
 # Client Carousel
 --------------------------------------------------------------*/
 
+
 /*--------------------------------------------------------------
 # Common
 --------------------------------------------------------------*/
+
 :root {
     --thm-font: 'Jost', sans-serif;
     --thm-reey-font: 'reeyregular';
@@ -31,9 +33,6 @@
     --thm-extra: #e8e8e8;
     --thm-extra-rgb: 232, 232, 232;
 }
-
-
-
 
 .row {
     --bs-gutter-x: 30px;
@@ -93,7 +92,6 @@ ul {
     opacity: 1;
 }
 
-
 .page-wrapper {
     position: relative;
     margin: 0 auto;
@@ -124,7 +122,6 @@ ul {
     margin-top: 0;
     margin-bottom: 0;
 }
-
 
 .thm-btn {
     position: relative;
@@ -170,8 +167,6 @@ ul {
 .thm-btn:hover {
     color: var(--thm-base);
 }
-
-
 
 .section-title {
     margin-top: -8px;
@@ -253,7 +248,6 @@ ul {
     cursor: pointer;
 }
 
-
 .preloader {
     position: fixed;
     background-color: #fff;
@@ -284,7 +278,9 @@ ul {
     animation-iteration-count: infinite;
 }
 
+
 /* scroll to top */
+
 .scroll-to-top {
     display: inline-block;
     width: 45px;
@@ -316,9 +312,11 @@ ul {
     color: #fff;
 }
 
+
 /*--------------------------------------------------------------
 # Navigations One
 --------------------------------------------------------------*/
+
 .main-header {
     position: absolute;
     left: 0px;
@@ -419,8 +417,6 @@ ul {
     color: var(--thm-base);
 }
 
-
-
 .main-menu-wrapper__call-number {
     margin-left: 20px;
 }
@@ -494,7 +490,6 @@ ul {
 }
 
 @media (min-width: 1200px) {
-
     .main-menu .main-menu__list,
     .main-menu .main-menu__list ul,
     .stricky-header .main-menu__list,
@@ -720,6 +715,7 @@ ul {
 /*--------------------------------------------------------------
 # Navigations Two
 --------------------------------------------------------------*/
+
 .main-header-two {
     position: relative;
     display: block;
@@ -836,10 +832,10 @@ ul {
 }
 
 
-
 /*--------------------------------------------------------------
 # Mobile Nav
 --------------------------------------------------------------*/
+
 .mobile-nav__wrapper {
     position: fixed;
     top: 0;
@@ -1058,9 +1054,11 @@ ul {
     display: none;
 }
 
+
 /*--------------------------------------------------------------
 # Search Popup
 --------------------------------------------------------------*/
+
 .search-popup {
     position: fixed;
     top: 0;
@@ -1142,9 +1140,11 @@ ul {
     margin: 0;
 }
 
+
 /*--------------------------------------------------------------
 # Banner One
 --------------------------------------------------------------*/
+
 .main-slider {
     overflow: hidden;
     position: relative;
@@ -1222,10 +1222,7 @@ ul {
     opacity: 0;
     transform: translateY(100px);
     transition-delay: 2500ms;
-    transition: transform 2000ms ease,
-        opacity 2000ms ease,
-        color 500ms ease,
-        background 500ms ease;
+    transition: transform 2000ms ease, opacity 2000ms ease, color 500ms ease, background 500ms ease;
     z-index: 2;
 }
 
@@ -1245,10 +1242,7 @@ ul {
     opacity: 0;
     transform: translateY(100px);
     transition-delay: 2500ms;
-    transition: transform 2000ms ease,
-        opacity 2000ms ease,
-        color 500ms ease,
-        background 500ms ease;
+    transition: transform 2000ms ease, opacity 2000ms ease, color 500ms ease, background 500ms ease;
     z-index: 2;
 }
 
@@ -1285,7 +1279,6 @@ ul {
     justify-content: space-between;
 }
 
-
 .main-slider__nav .swiper-button-next,
 .main-slider__nav .swiper-button-prev {
     position: relative;
@@ -1306,7 +1299,6 @@ ul {
     font-weight: 900;
     transition: all 500ms ease;
 }
-
 
 .main-slider__nav .swiper-button-next:hover,
 .main-slider__nav .swiper-button-prev:hover {
@@ -1420,11 +1412,10 @@ ul {
 }
 
 
-
-
 /*--------------------------------------------------------------
 # Main Slider Two
 --------------------------------------------------------------*/
+
 .main-slider-two {
     position: relative;
     display: block;
@@ -1443,12 +1434,10 @@ ul {
 }
 
 
-
-
-
 /*--------------------------------------------------------------
 # Welcome One
 --------------------------------------------------------------*/
+
 .welcome-one {
     position: relative;
     display: block;
@@ -1487,8 +1476,6 @@ ul {
     -webkit-animation-iteration-count: infinite;
     animation-iteration-count: infinite;
 }
-
-
 
 .welcome-one-shape-2 {
     position: absolute;
@@ -1629,9 +1616,11 @@ ul {
     margin: 0;
 }
 
+
 /*--------------------------------------------------------------
 # Services One
 --------------------------------------------------------------*/
+
 .services-one {
     position: relative;
     display: block;
@@ -1658,10 +1647,6 @@ ul {
     background-color: var(--thm-base);
     box-shadow: 0px 0px 60px 0px rgb(0, 0, 0, .10);
     z-index: 2;
-}
-
-.services-one__single:nth-child(2) {
-    border-left: 0;
 }
 
 .services-one__single:nth-child(3) {
@@ -1709,9 +1694,11 @@ ul {
     font-weight: 300;
 }
 
+
 /*--------------------------------------------------------------
 # Discover World
 --------------------------------------------------------------*/
+
 .discover-world {
     position: relative;
     display: block;
@@ -1904,9 +1891,11 @@ ul {
     margin-top: 20px;
 }
 
+
 /*--------------------------------------------------------------
 # We Shape
 --------------------------------------------------------------*/
+
 .we-shape {
     position: relative;
     display: block;
@@ -2004,9 +1993,11 @@ ul {
     line-height: 30px;
 }
 
+
 /*--------------------------------------------------------------
 # Grow And Experience
 --------------------------------------------------------------*/
+
 .grow-and-experience {
     position: relative;
     display: block;
@@ -2220,9 +2211,11 @@ ul {
     line-height: 30px;
 }
 
+
 /*--------------------------------------------------------------
 # Three Boxes
 --------------------------------------------------------------*/
+
 .three-boxes {
     position: relative;
     display: block;
@@ -2293,9 +2286,11 @@ ul {
     line-height: 36px;
 }
 
+
 /*--------------------------------------------------------------
 # Inspire
 --------------------------------------------------------------*/
+
 .inspire {
     position: relative;
     display: block;
@@ -2470,9 +2465,11 @@ ul {
     display: none;
 }
 
+
 /*--------------------------------------------------------------
 # Inspire
 --------------------------------------------------------------*/
+
 .project-one {
     position: relative;
     display: block;
@@ -2679,9 +2676,11 @@ ul {
     color: var(--thm-base);
 }
 
+
 /*--------------------------------------------------------------
 # Brand One
 --------------------------------------------------------------*/
+
 .brand-one {
     position: relative;
     display: block;
@@ -2717,9 +2716,11 @@ ul {
     opacity: 1;
 }
 
+
 /*--------------------------------------------------------------
 # Google Map
 --------------------------------------------------------------*/
+
 .google-map {
     position: relative;
     display: block;
@@ -2733,9 +2734,11 @@ ul {
     width: 100%;
 }
 
+
 /*--------------------------------------------------------------
 # News One
 --------------------------------------------------------------*/
+
 .news-one {
     position: relative;
     display: block;
@@ -2934,9 +2937,11 @@ ul {
     top: 2px;
 }
 
+
 /*--------------------------------------------------------------
 # News Two
 --------------------------------------------------------------*/
+
 .news-two {
     padding-bottom: 90px;
 }
@@ -2950,9 +2955,11 @@ ul {
     width: 0%;
 }
 
+
 /*--------------------------------------------------------------
 # Site Footer
 --------------------------------------------------------------*/
+
 .site-footer {
     position: relative;
     display: block;
@@ -3260,9 +3267,11 @@ ul {
     color: var(--thm-base);
 }
 
+
 /*--------------------------------------------------------------
 # Get To Know
 --------------------------------------------------------------*/
+
 .get-to-know {
     position: relative;
     display: block;
@@ -3456,9 +3465,11 @@ ul {
     font-family: var(--thm-font);
 }
 
+
 /*--------------------------------------------------------------
 # Discover World Two
 --------------------------------------------------------------*/
+
 .discover-world-two {
     position: relative;
     display: block;
@@ -3488,9 +3499,11 @@ ul {
     z-index: -1;
 }
 
+
 /*--------------------------------------------------------------
 # Project Two
 --------------------------------------------------------------*/
+
 .project-two {
     position: relative;
     display: block;
@@ -3565,9 +3578,11 @@ ul {
     background: var(--thm-primary);
 }
 
+
 /*--------------------------------------------------------------
 # Brand Two
 --------------------------------------------------------------*/
+
 .brand-two {
     position: relative;
     display: block;
@@ -3701,9 +3716,11 @@ ul {
     opacity: 1;
 }
 
+
 /*--------------------------------------------------------------
 # Team One
 --------------------------------------------------------------*/
+
 .team-one {
     position: relative;
     display: block;
@@ -3831,9 +3848,11 @@ ul {
     line-height: 24px;
 }
 
+
 /*--------------------------------------------------------------
 # Testimonial One
 --------------------------------------------------------------*/
+
 .testimonial-one {
     position: relative;
     display: block;
@@ -3929,9 +3948,11 @@ ul {
     color: var(--thm-primary);
 }
 
+
 /*--------------------------------------------------------------
 # The Only
 --------------------------------------------------------------*/
+
 .the-only {
     position: relative;
     display: block;
@@ -4042,9 +4063,11 @@ ul {
     margin: 0;
 }
 
+
 /*--------------------------------------------------------------
 # CTA One
 --------------------------------------------------------------*/
+
 .cta-one {
     position: relative;
     display: block;
@@ -4097,9 +4120,11 @@ ul {
     background-color: var(--thm-black);
 }
 
+
 /*--------------------------------------------------------------
 # Page Header
 --------------------------------------------------------------*/
+
 .page-header {
     position: relative;
     display: block;
@@ -4165,16 +4190,21 @@ ul {
     color: var(--thm-primary);
 }
 
+
 /*Services Three*/
+
 .services-three {
     padding-top: 120px;
 }
 
+
 /*Services Page The Only*/
+
 .services-page-the-only {
     padding-top: 120px;
     margin-top: 0;
 }
+
 
 /*Services Page Brand*/
 
@@ -4183,9 +4213,11 @@ ul {
     padding-bottom: 0;
 }
 
+
 /*--------------------------------------------------------------
 # Services Details
 --------------------------------------------------------------*/
+
 .service-details {
     position: relative;
     display: block;
@@ -4441,9 +4473,11 @@ ul {
     background-color: #f6f6f6;
 }
 
+
 /*--------------------------------------------------------------
 # Project Page
 --------------------------------------------------------------*/
+
 .project-page {
     position: relative;
     display: block;
@@ -4529,9 +4563,11 @@ ul {
     margin-bottom: 30px;
 }
 
+
 /*--------------------------------------------------------------
 # Project Details
 --------------------------------------------------------------*/
+
 .project-details {
     position: relative;
     display: block;
@@ -4695,9 +4731,11 @@ ul {
     font-weight: bold;
 }
 
+
 /*--------------------------------------------------------------
 # Similar Work
 --------------------------------------------------------------*/
+
 .simialr-work {
     position: relative;
     display: block;
@@ -4708,9 +4746,11 @@ ul {
     margin-bottom: 30px;
 }
 
+
 /*--------------------------------------------------------------
 # Grow And Experience
 --------------------------------------------------------------*/
+
 .grow-and-experience-two {
     position: relative;
     display: block;
@@ -4797,30 +4837,38 @@ ul {
     margin-left: 12px;
 }
 
+
 /*--------------------------------------------------------------
 # About Page Discover World Two
 --------------------------------------------------------------*/
+
 .about-page-discover-world-two {
     padding-bottom: 240px;
 }
 
+
 /*--------------------------------------------------------------
 # About Page Inspire
 --------------------------------------------------------------*/
+
 .about-page-inspire {
     margin-top: -120px;
 }
 
+
 /*--------------------------------------------------------------
 # About Page Team
 --------------------------------------------------------------*/
+
 .about-page-team {
     padding-top: 120px;
 }
 
+
 /*--------------------------------------------------------------
 # News Details
 --------------------------------------------------------------*/
+
 .news-details {
     position: relative;
     display: block;
@@ -4915,7 +4963,6 @@ ul {
     font-weight: 300;
 }
 
-
 .news-details__bottom {
     display: -webkit-box;
     display: flex;
@@ -4992,6 +5039,7 @@ ul {
 
 
 /* author */
+
 .author-one {
     background-color: #f6f6f6;
     padding: 60px 60px 60px;
@@ -5019,6 +5067,7 @@ ul {
     margin-top: 21px;
     font-size: 16px;
 }
+
 
 /*--------------------------------------------------------------
 ## Comments
@@ -5125,6 +5174,7 @@ ul {
     outline: none;
     margin-bottom: 10px;
 }
+
 
 /*--------------------------------------------------------------
 # Sidebar
@@ -5379,9 +5429,11 @@ ul {
     margin-top: 10px;
 }
 
+
 /*--------------------------------------------------------------
 # Contact Page
 --------------------------------------------------------------*/
+
 .contact-page {
     position: relative;
     display: block;
@@ -5485,9 +5537,11 @@ ul {
     margin-left: 10px;
 }
 
+
 /*--------------------------------------------------------------
 # Information
 --------------------------------------------------------------*/
+
 .information {
     position: relative;
     display: block;
@@ -5589,9 +5643,11 @@ ul {
     padding-left: 105px;
 }
 
+
 /*--------------------------------------------------------------
 # Contact Page Google Map
 --------------------------------------------------------------*/
+
 .contact-page-google-map {
     position: relative;
     display: block;
@@ -5605,9 +5661,11 @@ ul {
     width: 100%;
 }
 
+
 /*--------------------------------------------------------------
 # News Page
 --------------------------------------------------------------*/
+
 .news-page {
     padding-bottom: 90px;
 }

@@ -4,7 +4,7 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <title><?php echo 'Kárpitos Group - Kezdőlap ' . $title;  ?></title>
+    <title><?php echo 'Kárpitos Group - ' . $title; ?></title>
 
     <!-- favicons Icons -->
     <link rel="apple-touch-icon" sizes="180x180" href="assets/images/favicons/apple-touch-icon.png" />
@@ -46,19 +46,22 @@
     <!-- template styles -->
     <link rel="stylesheet" href="assets/css/sominx.css" />
     <link rel="stylesheet" href="assets/css/sominx-responsive.css" />
+
+    <!-- template Boaz styles -->
+    <link rel="stylesheet" href="Boaz/css/style.css" />
 </head>
 
 <body>
     <div class="preloader">
-        <img class="preloader__image" width="60" src="assets/images/loader.png" alt="" />
+        <img class="preloader__image" width="60" src="assets/images/loader.png" alt="Kárpitos Group" />
     </div>
     <!-- /.preloader -->
     <div class="page-wrapper">
         <?php
-    require_once "header.php";
-    require_once "$view.php";
-    require_once "footer.php";
-    ?>
+require_once "header.php";
+require_once "$view.php";
+require_once "footer.php";
+?>
     </div>
 </body>
 
