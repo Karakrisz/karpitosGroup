@@ -1,17 +1,75 @@
 /********************  Boaz formating start **********************/
 
+.display-flex-align-items-center {
+    display: flex;
+    align-items: center;
+}
+
+.owl-carousel .owl-item img,
+.welcome-one__img img,
+.brand-one .swiper-slide img,
+.three-boxes__img img {
+    object-fit: cover;
+}
+
+.main-menu-wrapper__logo__img,
+.site-footer__top-logo__img {
+    border: 5px solid #FFB100;
+}
+
+:root {
+    --thm-primary: #FFB100;
+}
+
+.inspire-bg-overly {
+    background: #FFB100;
+    opacity: 0.95;
+}
+
+.icon-magnifying-glass:before {
+    content: "\e925";
+}
+
+.page-header {
+    padding: 300px 0 200px;
+    background-size: cover;
+    background-position: center;
+}
+
+.page-header:before {
+    background: rgba(var(--thm-black-rgb), .50);
+}
+
 
 /********************  Display none elem  start **********************/
 
 .welcome-one__points-box,
 .welcome-one-shape-2 img,
 .grow-and-experience-two__list,
-.we-shape__bottom {
+.we-shape__bottom,
+.about-page-team,
+.news-one,
+.project-one .icon-right-arrow-angle,
+.project-one__single .icon-right-arrow-angle,
+.welcome-one__outer-img img,
+.welcome-one-shape-1,
+.discover-world-shape-2,
+.contact-page {
     display: none;
 }
 
 
 /********************  Display none elem end **********************/
+
+
+/********************  Main menu start **********************/
+
+.main-menu-wrapper__logo__img {
+    width: 155px;
+}
+
+
+/********************  Main menu end **********************/
 
 
 /********************  Welcome start end **********************/
@@ -20,8 +78,23 @@
     margin-bottom: 2em;
 }
 
+.welcome-one__img img {
+    height: 633px;
+    width: 100%;
+}
+
 
 /********************  Welcome end **********************/
+
+
+/********************  Grow and Experience Start **********************/
+
+.faq-one-accrodion .accrodion-content p {
+    margin: 0 0 0.7em 0;
+}
+
+
+/********************  Grow and Experience end **********************/
 
 
 /********************  Services start **********************/
@@ -35,9 +108,83 @@
 /********************  Services end **********************/
 
 
+/********************  Three boxes start **********************/
+
+.three-boxes__img img {
+    height: 250px;
+}
+
+
+/********************  Three boxes end **********************/
+
+
+/********************  Project start **********************/
+
+.owl-carousel .owl-item img {
+    height: 500px;
+}
+
+
+/********************  Project end **********************/
+
+
+/********************  Google map start **********************/
+
+.google-map__one {
+    -webkit-filter: grayscale(100%);
+    -moz-filter: grayscale(100%);
+    -ms-filter: grayscale(100%);
+    -o-filter: grayscale(100%);
+    filter: grayscale(100%);
+}
+
+
+/********************  Google map end **********************/
+
+
+/********************  Brand one start **********************/
+
+.brand-one .swiper-slide img {
+    height: 70px;
+    opacity: 0.7;
+}
+
+
+/********************  Brand one end **********************/
+
+
+/********************  Footer start **********************/
+
+.site-footer__top-logo__img {
+    width: 200px;
+}
+
+
+/********************  Footer end **********************/
+
+
 /********************  Media start **********************/
 
-@media screen and (max-width: 767px) {}
+@media screen and (max-width: 767px) {
+    .logo-box__img {
+        width: 70%;
+    }
+    .welcome-one__img img {
+        height: 510px;
+    }
+    .owl-carousel .owl-item img {
+        height: 400px;
+    }
+    .discover-world__running {
+        padding: 4rem 3.5rem;
+    }
+    .site-footer__top-logo {
+        margin-top: 1rem;
+    }
+    .site-footer__call p {
+        font-size: 27px;
+    }
+}
 
 
 /********************  Media end **********************/

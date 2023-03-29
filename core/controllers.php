@@ -32,6 +32,16 @@ function projectsController()
         ]
     ];
 }
+function servicesController()
+{
+
+    return [
+        "szolgaltatasok",
+        [
+            "title" => "Szolgáltatások"
+        ]
+    ];
+}
 
 function contactController()
 {

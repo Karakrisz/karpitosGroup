@@ -1,5 +1,5 @@
         <!--Page Header Start-->
-        <section class="page-header" style="background-image: url(assets/images/backgrounds/page-header-bg.jpg);">
+        <section class="page-header" style="background-image: url(Boaz/img/subpage.jpg);">
             <div class="container">
                 <div class="page-header__inner">
                     <ul class="thm-breadcrumb list-unstyled">

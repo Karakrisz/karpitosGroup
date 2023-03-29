@@ -20,7 +20,7 @@
                 }}'>
         <div class="swiper-wrapper">
             <div class="swiper-slide">
-                <div class="image-layer" style="background-image: url(assets/images/backgrounds/main-slider-1-1.jpg);">
+                <div class="image-layer" style="background-image: url(Boaz/img/slider.jpg);">
                 </div>
                 <div class="image-layer-overlay"></div>
                 <div class="main-slider__date-time">
@@ -28,10 +28,7 @@
                     </p>
                 </div>
                 <div class="main-slider__social">
-                    <a href="#"><i class="fab fa-twitter"></i></a>
-                    <a href="#"><i class="fab fa-facebook"></i></a>
-                    <a href="#"><i class="fab fa-pinterest-p"></i></a>
-                    <a href="#"><i class="fab fa-instagram"></i></a>
+                    <a target="_blank" href="https://www.facebook.com/karpitosgroup"><i class="fab fa-facebook"></i></a>
                 </div>
                 <!-- /.image-layer -->
                 <div class="container">
@@ -49,7 +46,7 @@
                 </div>
             </div>
             <div class="swiper-slide">
-                <div class="image-layer" style="background-image: url(assets/images/backgrounds/main-slider-1-2.jpg);">
+                <div class="image-layer" style="background-image: url(Boaz/img/slider2.jpg);">
                 </div>
                 <div class="image-layer-overlay"></div>
                 <div class="main-slider__date-time">
@@ -79,7 +76,7 @@
             </div>
 
             <div class="swiper-slide">
-                <div class="image-layer" style="background-image: url(assets/images/backgrounds/main-slider-1-3.jpg);">
+                <div class="image-layer" style="background-image: url(Boaz/img/slider3.jpg);">
                 </div>
                 <div class="image-layer-overlay"></div>
                 <div class="main-slider__date-time">
@@ -126,14 +123,14 @@
 <!--Welcome One Start-->
 <section class="welcome-one">
     <div class="welcome-one__outer-img">
-        <img src="assets/images/resources/welcome-one-outer-img.jpg" alt="Kárpitos Group">
+        <img src="Boaz/img/about2.jpg" alt="Kárpitos Group">
         <div class="welcome-one__outer-img-overly"></div>
     </div>
     <div class="welcome-one-shape-1">
         <img src="assets/images/shapes/welcome-one-shape-1.png" alt="Kárpitos Group">
     </div>
     <div class="welcome-one-shape-2 wow slideInLeft" data-wow-delay="100ms" data-wow-duration="2500ms">
-        <img src="assets/images/shapes/welcome-one-shape-2.png" alt="Kárpitos Group">
+        <img src="Boaz/img/about.jpg" alt="Kárpitos Group">
     </div>
     <div class="container">
         <div class="row">
@@ -197,7 +194,7 @@
                 <div class="welcome-one__right wow slideInRight" data-wow-delay="100ms" data-wow-duration="2500ms">
                     <div class="welcome-one__img-box">
                         <div class="welcome-one__img">
-                            <img src="assets/images/resources/welcome-one-img-1.jpg" alt="Kárpitos Group">
+                            <img src="Boaz/img/about.jpg" alt="Kárpitos Group">
                         </div>
                         <div class="welcome-one__completed">
                             <h3 class="odometer" data-count="4890">00</h3>
@@ -263,11 +260,10 @@
                     alt="Kárpitos Group"></div>
             <div class="discover-world-shape-2"><img src="assets/images/shapes/discover-world-shape-2.png"
                     alt="Kárpitos Group"></div>
-            <div class="discover-world-bg"
-                style="background-image: url(assets/images/backgrounds/discover-world-bg.jpg)"></div>
+            <div class="discover-world-bg" style="background-image: url(Boaz/img/video.jpg)"></div>
             <h2 class="discover-world__title">Fedezze fel a <br> Kárpitos Group világát</h2>
             <div class="discover-world__video-link">
-                <a href="https://www.youtube.com/watch?v=Get7rqXYrbQ" class="video-popup">
+                <a href="https://www.youtube.com/watch?v=f48APXo5TT4" class="video-popup">
                     <div class="discover-world__video-icon">
                         <span class="icon-play-button"></span>
                         <i class="ripple"></i>
@@ -340,41 +336,40 @@
 
 <!--Grow and Experience Start-->
 <section class="grow-and-experience">
-    <div class="grow-and-experience-bg"
-        style="background-image: url(assets/images/backgrounds/grow-and-experience-bg.jpg)"></div>
+    <div class="grow-and-experience-bg" style="background-image: url(Boaz/img/gyik.jpg)"></div>
     <div class="grow-and-experience-bg-overly"></div>
     <div class="container">
         <div class="row">
-            <div class="col-xl-6 col-lg-6">
+            <div class="col-xl-6 col-lg-6 display-flex-align-items-center">
                 <div class="grow-and-experience__left">
                     <div class="section-title text-left">
                         <span class="section-title__tagline">Tegye fel kérdéseit</span>
                         <h2 class="section-title__title">Gyakori kérdések</h2>
                     </div>
-                    <p class="grow-and-experience__text">Lorem ipsum is simply free text available in the market
-                        dolor sit amet, consectetur notted adipisicing elit sed do. Suspendisse finibus urna
-                        mauris, vitae consequat quam vel.</p>
+                    <p class="grow-and-experience__text">Összefoglaltuk leggyakrabban feltett kérdéseket, amikkel eddig
+                        találkoztunk. Ha bármi kérdése merülne fel, keressen minket bizalommal. Minden egyéb kérdésre
+                        válaszolunk. </p>
                     <div class="grow-and-experience__progress-wrap">
                         <div class="grow-and-experience__progress">
                             <div class="grow-and-experience__progress-box">
                                 <div class="circle-progress"
-                                    data-options='{ "value": 0.9,"thickness": 5,"emptyFill": "#e8e8e8","lineCap": "square", "size": 106, "fill": { "color": "#fe1f07" } }'>
+                                    data-options='{ "value": 0.9,"thickness": 5,"emptyFill": "#e8e8e8","lineCap": "square", "size": 106, "fill": { "color": "#FFB100" } }'>
                                 </div><!-- /.circle-progress -->
                                 <span>90%</span>
                             </div>
                             <div class="grow-and-experience__progress-content">
-                                <h3>Clients Satisfied</h3>
+                                <h3>Bútor kárpitozás</h3>
                             </div>
                         </div>
                         <div class="grow-and-experience__progress">
                             <div class="grow-and-experience__progress-box">
                                 <div class="circle-progress"
-                                    data-options='{ "value": 0.5,"thickness": 5,"emptyFill": "#e8e8e8","lineCap": "square", "size": 106, "fill": { "color": "#fe1f07" } }'>
+                                    data-options='{ "value": 0.5,"thickness": 5,"emptyFill": "#e8e8e8","lineCap": "square", "size": 106, "fill": { "color": "#FFB100" } }'>
                                 </div><!-- /.circle-progress -->
                                 <span>50%</span>
                             </div><!-- /.about-five__progress-box -->
                             <div class="grow-and-experience__progress-content">
-                                <h3>Projects Completed</h3>
+                                <h3>Egyéb kárpitozás</h3>
                             </div>
                         </div>
                     </div>
@@ -385,37 +380,88 @@
                     <div class="accrodion-grp" data-grp-name="faq-one-accrodion">
                         <div class="accrodion active">
                             <div class="accrodion-title">
-                                <h4>Company Provides a Full Range of Services?</h4>
+                                <h4>Mitől egyedi egy bútor?</h4>
                             </div>
                             <div class="accrodion-content">
                                 <div class="inner">
-                                    <p>Suspendisse finibus urna mauris, vitae consequat quam vel. Vestibulum leo
-                                        ligula, vitae commodo nisl. Lorem ipsum is simply free text available in
-                                        the market to use for web.</p>
+                                    <p>Ahogy egy exkluzív öltönyt vagy cipőt készítettünk magunknak, ugyanilyen gyártási
+                                        folyamatban készül egy egyedi prémium minőségű berendezési tárgy, bútor is.</p>
+                                    <p>Figyelembe vesszük az ügyfelünk igényeit, a lakás, vagy ház design környezetét.
+                                    </p>
+                                    <p>Választható anyagokkal, a legmaximálisabb személynek megfelelő komfortfokozattal,
+                                        az
+                                        ügyfél igényeit figyelembe véve kerül legyártásra amely egyedi, és a
+                                        tömeggyártásban nem
+                                        fellelhető!
+                                    </p>
                                 </div><!-- /.inner -->
                             </div>
                         </div>
                         <div class="accrodion">
                             <div class="accrodion-title">
-                                <h4>Web Improvement Works are Expensive?</h4>
+                                <h4>Hogyan tudok ajánlatot kérni egyedi bútorgyártásra?</h4>
                             </div>
                             <div class="accrodion-content">
                                 <div class="inner">
-                                    <p>Suspendisse finibus urna mauris, vitae consequat quam vel. Vestibulum leo
-                                        ligula, vitae commodo nisl. Lorem ipsum is simply free text available in
-                                        the market to use for web.</p>
+                                    <p>Amennyiben rendelkezik egy elképzeléssel egy fotó, egy méretpontos tervrajz sokat
+                                        segít
+                                        ,küldje el e-mail címünkre,mi válaszban egy elsődleges árajánlatot küldünk az Ön
+                                        számára.</p>
+                                    <p>Az árajánlat elfogadása után rögzítjük a gyártás időpontját és felvesszük a
+                                        kapcsolatot,személyes találkozó alkalmával felsablonozzuk a kívánt térbe a
+                                        bútort.</p>
+                                    <p>Ha nem rendelkezik tervekkel segítünk a projekt létrehozásában lakberendező
+                                        partnereink
+                                        egyikével.</p>
+                                    <p>Nagyobb projekt esetén személyes találkozó szükséges az első lépésektől.</p>
                                 </div><!-- /.inner -->
                             </div>
                         </div>
                         <div class="accrodion last-chiled">
                             <div class="accrodion-title">
-                                <h4>Taking Seamless Key Performance Indicators?</h4>
+                                <h4>Hogyan tudok árajánlatot kérni átkárpitozásra?</h4>
                             </div>
                             <div class="accrodion-content">
                                 <div class="inner">
-                                    <p>Suspendisse finibus urna mauris, vitae consequat quam vel. Vestibulum leo
-                                        ligula, vitae commodo nisl. Lorem ipsum is simply free text available in
-                                        the market to use for web.</p>
+                                    <p>Küldjön egy egész alakos fotót a bútorról,ismertesse velünk mi az amit
+                                        szeretne,szállítási
+                                        igény esetén,a pontos címet is tudassa velünk .Válaszüzenetben árajánlatot
+                                        küldünk ,vállalási
+                                        idővel.</p>
+                                    <p>Amennyiben az árajánlat megfelelő,e-mailen ,vagy telefonon felvesszük Önnel a
+                                        kapcsolatot
+                                        ,és egyeztetjük a részleteket.</p>
+                                </div><!-- /.inner -->
+                            </div>
+                        </div>
+                        <div class="accrodion last-chiled">
+                            <div class="accrodion-title">
+                                <h4>Ennyiért már újat vásárolok ,mi kerül ezen ennyibe?</h4>
+                            </div>
+                            <div class="accrodion-content">
+                                <div class="inner">
+                                    <p>Egy szériában gyártott bútornál,minden egyes elem sablonnal készül, így jóval
+                                        gyorsabb a
+                                        gyártási folyamat. Az átkárpitozásnál,a lebontott anyagokból sablonozunk,szabjuk
+                                        ,és vágjuk
+                                        varrjuk az új kárpitanyagot ,majd javítjuk a tartószerkezetet,és cseréljük a
+                                        töltőanyagokat.</p>
+                                    <p>Továbbá, a használt anyagok lebontása ,és környezetvédelmi hulladék kezelése is
+                                        költséggel
+                                        jár. A használt töltőanyag veszélyes hulladéknak minősül.</p>
+                                </div><!-- /.inner -->
+                            </div>
+                        </div>
+                        <div class="accrodion last-chiled">
+                            <div class="accrodion-title">
+                                <h4>Hogyan tudok kárpitot választani?</h4>
+                            </div>
+                            <div class="accrodion-content">
+                                <div class="inner">
+                                    <p>Időpontfoglalással telephelyünkön, több típus ,és anyagfajta kárpitból
+                                        választhat,igényei
+                                        szerint.</p>
+                                    <p>Átkárpitozás esetén anyagmintát az elszállításnál is tudunk biztosítani.</p>
                                 </div><!-- /.inner -->
                             </div>
                         </div>
@@ -435,9 +481,9 @@
                 <!--Three Boxes Single-->
                 <div class="three-boxes__single">
                     <div class="three-boxes__img">
-                        <img src="assets/images/resources/three-boxes-img-1.jpg" alt="Kárpitos Group">
+                        <img src="Boaz/img/project/saint-tropez-fotel.jpg" alt="Kárpitos Group">
                         <div class="three-boxes__content">
-                            <h3>Growing <br> Businesses</h3>
+                            <h3>Növekvő <br> vállalkozások</h3>
                         </div>
                     </div>
                 </div>
@@ -446,9 +492,9 @@
                 <!--Three Boxes Single-->
                 <div class="three-boxes__single">
                     <div class="three-boxes__img">
-                        <img src="assets/images/resources/three-boxes-img-2.jpg" alt="Kárpitos Group">
+                        <img src="Boaz/img/project/dubai.jpg" alt="Kárpitos Group">
                         <div class="three-boxes__content">
-                            <h3>Building <br> Relationships</h3>
+                            <h3>Kapcsolatok <br> építése</h3>
                         </div>
                     </div>
                 </div>
@@ -457,9 +503,9 @@
                 <!--Three Boxes Single-->
                 <div class="three-boxes__single">
                     <div class="three-boxes__img">
-                        <img src="assets/images/resources/three-boxes-img-3.jpg" alt="Kárpitos Group">
+                        <img src="Boaz/img/project/tervezes.jpg" alt="Kárpitos Group">
                         <div class="three-boxes__content">
-                            <h3>Operational <br> Excellence</h3>
+                            <h3>Szakmai <br> kiválóság</h3>
                         </div>
                     </div>
                 </div>
@@ -473,7 +519,7 @@
 <section class="inspire">
     <div class="inspire__container">
         <div class="inspire-bg jarallax" data-jarallax data-speed="0.2" data-imgPosition="50% 0%"
-            style="background-image: url(assets/images/backgrounds/inspire-bg.jpg)"></div>
+            style="background-image: url(Boaz/img/ali.jpg)"></div>
         <div class="inspire-bg-overly"></div>
         <div class="container">
             <div class="row">
@@ -578,12 +624,12 @@
             <!--Project One Single-->
             <div class="project-one__single">
                 <div class="project-one__img">
-                    <img src="assets/images/resources/project-one-img-1.jpg" alt="Kárpitos Group">
+                    <img src="Boaz/img/project/FOUR-SEASONS.jpg" alt="Kárpitos Group">
                     <div class="project-one__content">
-                        <h5 class="project-one__tagline">Designing <span>/</span> Graphics</h5>
-                        <h3 class="project-one__tilte"><a href="project-details.html">Fimlor experience</a></h3>
+                        <h5 class="project-one__tagline">Tervezés <span>/</span> Megvalósítás</h5>
+                        <h3 class="project-one__tilte"><a>Four seasons</a></h3>
                         <div class="project-one__arrow">
-                            <a href="project-details.html"><span class="icon-right-arrow-angle"></span></a>
+                            <a><span class="icon-right-arrow-angle"></span></a>
                         </div>
                     </div>
                 </div>
@@ -591,12 +637,12 @@
             <!--Project One Single-->
             <div class="project-one__single">
                 <div class="project-one__img">
-                    <img src="assets/images/resources/project-one-img-2.jpg" alt="Kárpitos Group">
+                    <img src="Boaz/img/project/FOUR-SEASONS2.jpg" alt="Kárpitos Group">
                     <div class="project-one__content">
-                        <h5 class="project-one__tagline">Designing <span>/</span> Graphics</h5>
-                        <h3 class="project-one__tilte"><a href="project-details.html">Fimlor experience</a></h3>
+                        <h5 class="project-one__tagline">Tervezés <span>/</span> Megvalósítás</h5>
+                        <h3 class="project-one__tilte"><a>Four seasons</a></h3>
                         <div class="project-one__arrow">
-                            <a href="project-details.html"><span class="icon-right-arrow-angle"></span></a>
+                            <a><span class="icon-right-arrow-angle"></span></a>
                         </div>
                     </div>
                 </div>
@@ -604,12 +650,12 @@
             <!--Project One Single-->
             <div class="project-one__single">
                 <div class="project-one__img">
-                    <img src="assets/images/resources/project-one-img-3.jpg" alt="Kárpitos Group">
+                    <img src="Boaz/img/project/FOUR-SEASONS3.jpg" alt="Kárpitos Group">
                     <div class="project-one__content">
-                        <h5 class="project-one__tagline">Designing <span>/</span> Graphics</h5>
-                        <h3 class="project-one__tilte"><a href="project-details.html">Fimlor experience</a></h3>
+                        <h5 class="project-one__tagline">Tervezés <span>/</span> Megvalósítás</h5>
+                        <h3 class="project-one__tilte"><a>Four seasons</a></h3>
                         <div class="project-one__arrow">
-                            <a href="project-details.html"><span class="icon-right-arrow-angle"></span></a>
+                            <a><span class="icon-right-arrow-angle"></span></a>
                         </div>
                     </div>
                 </div>
@@ -617,12 +663,12 @@
             <!--Project One Single-->
             <div class="project-one__single">
                 <div class="project-one__img">
-                    <img src="assets/images/resources/project-one-img-4.jpg" alt="Kárpitos Group">
+                    <img src="Boaz/img/project/haloszoba.jpg" alt="Kárpitos Group">
                     <div class="project-one__content">
-                        <h5 class="project-one__tagline">Designing <span>/</span> Graphics</h5>
-                        <h3 class="project-one__tilte"><a href="project-details.html">Fimlor experience</a></h3>
+                        <h5 class="project-one__tagline">Tervezés <span>/</span> Megvalósítás</h5>
+                        <h3 class="project-one__tilte"><a>Hálószoba</a></h3>
                         <div class="project-one__arrow">
-                            <a href="project-details.html"><span class="icon-right-arrow-angle"></span></a>
+                            <a><span class="icon-right-arrow-angle"></span></a>
                         </div>
                     </div>
                 </div>
@@ -630,12 +676,12 @@
             <!--Project One Single-->
             <div class="project-one__single">
                 <div class="project-one__img">
-                    <img src="assets/images/resources/project-one-img-1.jpg" alt="Kárpitos Group">
+                    <img src="Boaz/img/project/irodai-varo2.jpg" alt="Kárpitos Group">
                     <div class="project-one__content">
-                        <h5 class="project-one__tagline">Designing <span>/</span> Graphics</h5>
-                        <h3 class="project-one__tilte"><a href="project-details.html">Fimlor experience</a></h3>
+                        <h5 class="project-one__tagline">Tervezés <span>/</span> Megvalósítás</h5>
+                        <h3 class="project-one__tilte"><a>Irodai váró</a></h3>
                         <div class="project-one__arrow">
-                            <a href="project-details.html"><span class="icon-right-arrow-angle"></span></a>
+                            <a><span class="icon-right-arrow-angle"></span></a>
                         </div>
                     </div>
                 </div>
@@ -643,12 +689,181 @@
             <!--Project One Single-->
             <div class="project-one__single">
                 <div class="project-one__img">
-                    <img src="assets/images/resources/project-one-img-2.jpg" alt="Kárpitos Group">
+                    <img src="Boaz/img/project/maganlakas.jpg" alt="Kárpitos Group">
                     <div class="project-one__content">
-                        <h5 class="project-one__tagline">Designing <span>/</span> Graphics</h5>
-                        <h3 class="project-one__tilte"><a href="project-details.html">Fimlor experience</a></h3>
+                        <h5 class="project-one__tagline">Tervezés <span>/</span> Megvalósítás</h5>
+                        <h3 class="project-one__tilte"><a>Magánlakás</a></h3>
                         <div class="project-one__arrow">
-                            <a href="project-details.html"><span class="icon-right-arrow-angle"></span></a>
+                            <a><span class="icon-right-arrow-angle"></span></a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!--Project One Single-->
+            <div class="project-one__single">
+                <div class="project-one__img">
+                    <img src="Boaz/img/project/maganlakas2.jpg" alt="Kárpitos Group">
+                    <div class="project-one__content">
+                        <h5 class="project-one__tagline">Tervezés <span>/</span> Megvalósítás</h5>
+                        <h3 class="project-one__tilte"><a>Magánlakás</a></h3>
+                        <div class="project-one__arrow">
+                            <a><span class="icon-right-arrow-angle"></span></a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!--Project One Single-->
+            <div class="project-one__single">
+                <div class="project-one__img">
+                    <img src="Boaz/img/project/maganlakas3.jpg" alt="Kárpitos Group">
+                    <div class="project-one__content">
+                        <h5 class="project-one__tagline">Tervezés <span>/</span> Megvalósítás</h5>
+                        <h3 class="project-one__tilte"><a>Magánlakás</a></h3>
+                        <div class="project-one__arrow">
+                            <a><span class="icon-right-arrow-angle"></span></a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!--Project One Single-->
+            <div class="project-one__single">
+                <div class="project-one__img">
+                    <img src="Boaz/img/project/dedas.jpg" alt="Kárpitos Group">
+                    <div class="project-one__content">
+                        <h5 class="project-one__tagline">Tervezés <span>/</span> Megvalósítás</h5>
+                        <h3 class="project-one__tilte"><a>Dedas</a></h3>
+                        <div class="project-one__arrow">
+                            <a><span class="icon-right-arrow-angle"></span></a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!--Project One Single-->
+            <div class="project-one__single">
+                <div class="project-one__img">
+                    <img src="Boaz/img/project/dedas2.jpg" alt="Kárpitos Group">
+                    <div class="project-one__content">
+                        <h5 class="project-one__tagline">Tervezés <span>/</span> Megvalósítás</h5>
+                        <h3 class="project-one__tilte"><a>Dedas</a></h3>
+                        <div class="project-one__arrow">
+                            <a><span class="icon-right-arrow-angle"></span></a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!--Project One Single-->
+            <div class="project-one__single">
+                <div class="project-one__img">
+                    <img src="Boaz/img/project/dedas3.jpg" alt="Kárpitos Group">
+                    <div class="project-one__content">
+                        <h5 class="project-one__tagline">Tervezés <span>/</span> Megvalósítás</h5>
+                        <h3 class="project-one__tilte"><a>Dedas</a></h3>
+                        <div class="project-one__arrow">
+                            <a><span class="icon-right-arrow-angle"></span></a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!--Project One Single-->
+            <div class="project-one__single">
+                <div class="project-one__img">
+                    <img src="Boaz/img/project/makett.jpg" alt="Kárpitos Group">
+                    <div class="project-one__content">
+                        <h5 class="project-one__tagline">Tervezés <span>/</span> Megvalósítás</h5>
+                        <h3 class="project-one__tilte"><a>Makett</a></h3>
+                        <div class="project-one__arrow">
+                            <a><span class="icon-right-arrow-angle"></span></a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!--Project One Single-->
+            <div class="project-one__single">
+                <div class="project-one__img">
+                    <img src="Boaz/img/project/makett2.jpg" alt="Kárpitos Group">
+                    <div class="project-one__content">
+                        <h5 class="project-one__tagline">Tervezés <span>/</span> Megvalósítás</h5>
+                        <h3 class="project-one__tilte"><a>Makett</a></h3>
+                        <div class="project-one__arrow">
+                            <a><span class="icon-right-arrow-angle"></span></a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!--Project One Single-->
+            <div class="project-one__single">
+                <div class="project-one__img">
+                    <img src="Boaz/img/project/neprajzi-muzem-kiallitas.jpg" alt="Kárpitos Group">
+                    <div class="project-one__content">
+                        <h5 class="project-one__tagline">Tervezés <span>/</span> Megvalósítás</h5>
+                        <h3 class="project-one__tilte"><a>Néprajzi múzem kiállitás</a></h3>
+                        <div class="project-one__arrow">
+                            <a><span class="icon-right-arrow-angle"></span></a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!--Project One Single-->
+            <div class="project-one__single">
+                <div class="project-one__img">
+                    <img src="Boaz/img/project/neprajzi-muzem-kiallitas2.jpg" alt="Kárpitos Group">
+                    <div class="project-one__content">
+                        <h5 class="project-one__tagline">Tervezés <span>/</span> Megvalósítás</h5>
+                        <h3 class="project-one__tilte"><a>Néprajzi múzem kiállitás</a></h3>
+                        <div class="project-one__arrow">
+                            <a><span class="icon-right-arrow-angle"></span></a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!--Project One Single-->
+            <div class="project-one__single">
+                <div class="project-one__img">
+                    <img src="Boaz/img/project/saint-tropez-asztal.jpg" alt="Kárpitos Group">
+                    <div class="project-one__content">
+                        <h5 class="project-one__tagline">Tervezés <span>/</span> Megvalósítás</h5>
+                        <h3 class="project-one__tilte"><a>Saint tropez asztal</a></h3>
+                        <div class="project-one__arrow">
+                            <a><span class="icon-right-arrow-angle"></span></a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!--Project One Single-->
+            <div class="project-one__single">
+                <div class="project-one__img">
+                    <img src="Boaz/img/project/saint-tropez-fotel.jpg" alt="Kárpitos Group">
+                    <div class="project-one__content">
+                        <h5 class="project-one__tagline">Tervezés <span>/</span> Megvalósítás</h5>
+                        <h3 class="project-one__tilte"><a>Saint tropez fotel</a></h3>
+                        <div class="project-one__arrow">
+                            <a><span class="icon-right-arrow-angle"></span></a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!--Project One Single-->
+            <div class="project-one__single">
+                <div class="project-one__img">
+                    <img src="Boaz/img/project/saint-tropez-salon-kiallitas.jpg" alt="Kárpitos Group">
+                    <div class="project-one__content">
+                        <h5 class="project-one__tagline">Tervezés <span>/</span> Megvalósítás</h5>
+                        <h3 class="project-one__tilte"><a>Saint tropez salon kiállitás</a></h3>
+                        <div class="project-one__arrow">
+                            <a><span class="icon-right-arrow-angle"></span></a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!--Project One Single-->
+            <div class="project-one__single">
+                <div class="project-one__img">
+                    <img src="Boaz/img/project/tervezes.jpg" alt="Kárpitos Group">
+                    <div class="project-one__content">
+                        <h5 class="project-one__tagline">Tervezés <span>/</span> Megvalósítás</h5>
+                        <h3 class="project-one__tilte"><a>Tervezés</a></h3>
+                        <div class="project-one__arrow">
+                            <a><span class="icon-right-arrow-angle"></span></a>
                         </div>
                     </div>
                 </div>
@@ -690,34 +905,31 @@
                     }}'>
                 <div class="swiper-wrapper">
                     <div class="swiper-slide">
-                        <img src="assets/images/brand/brand-1-1.png" alt="Kárpitos Group">
+                        <img src="Boaz/img/partner/amberwood.jpg" alt="Kárpitos Group">
                     </div><!-- /.swiper-slide -->
                     <div class="swiper-slide">
-                        <img src="assets/images/brand/brand-1-2.png" alt="Kárpitos Group">
+                        <img src="Boaz/img/partner/bohem.png" alt="Kárpitos Group">
                     </div><!-- /.swiper-slide -->
                     <div class="swiper-slide">
-                        <img src="assets/images/brand/brand-1-3.png" alt="Kárpitos Group">
+                        <img src="Boaz/img/partner/cafe.jpg" alt="Kárpitos Group">
                     </div><!-- /.swiper-slide -->
                     <div class="swiper-slide">
-                        <img src="assets/images/brand/brand-1-4.png" alt="Kárpitos Group">
+                        <img src="Boaz/img/partner/palkopetra.png" alt="Kárpitos Group">
                     </div><!-- /.swiper-slide -->
                     <div class="swiper-slide">
-                        <img src="assets/images/brand/brand-1-5.png" alt="Kárpitos Group">
+                        <img src="Boaz/img/partner/pentamen.png" alt="Kárpitos Group">
                     </div><!-- /.swiper-slide -->
                     <div class="swiper-slide">
-                        <img src="assets/images/brand/brand-1-1.png" alt="Kárpitos Group">
+                        <img src="Boaz/img/partner/silka.jpg" alt="Kárpitos Group">
                     </div><!-- /.swiper-slide -->
                     <div class="swiper-slide">
-                        <img src="assets/images/brand/brand-1-2.png" alt="Kárpitos Group">
+                        <img src="Boaz/img/partner/ten.png" alt="Kárpitos Group">
                     </div><!-- /.swiper-slide -->
                     <div class="swiper-slide">
-                        <img src="assets/images/brand/brand-1-3.png" alt="Kárpitos Group">
+                        <img src="Boaz/img/partner/unix.svg" alt="Kárpitos Group">
                     </div><!-- /.swiper-slide -->
                     <div class="swiper-slide">
-                        <img src="assets/images/brand/brand-1-4.png" alt="Kárpitos Group">
-                    </div><!-- /.swiper-slide -->
-                    <div class="swiper-slide">
-                        <img src="assets/images/brand/brand-1-5.png" alt="Kárpitos Group">
+                        <img src="Boaz/img/partner/vathy.png" alt="Kárpitos Group">
                     </div><!-- /.swiper-slide -->
                 </div>
             </div>
@@ -728,9 +940,10 @@
 
 <!--Google Map Start-->
 <section class="google-map">
-    <iframe
-        src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d4562.753041141002!2d-118.80123790098536!3d34.152323469614075!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80e82469c2162619%3A0xba03efb7998eef6d!2sCostco+Wholesale!5e0!3m2!1sbn!2sbd!4v1562518641290!5m2!1sbn!2sbd"
-        class="google-map__one" allowfullscreen></iframe>
+    <iframe class="google-map__one"
+        src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2698.938101407348!2d19.06076131552458!3d47.432650307971535!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4741e78b3dd33903%3A0xd1f1834fa62f56f3!2sBudapest%2C%20Iparv%C3%A1g%C3%A1ny%20u.%209-11%2C%201211!5e0!3m2!1shu!2shu!4v1680093139259!5m2!1shu!2shu"
+        allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
 
 </section>
 <!--Google Map End-->

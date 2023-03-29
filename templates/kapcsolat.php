@@ -1,5 +1,5 @@
         <!--Page Header Start-->
-        <section class="page-header" style="background-image: url(assets/images/backgrounds/page-header-bg.jpg);">
+        <section class="page-header" style="background-image: url(Boaz/img/subpage.jpg);">
             <div class="container">
                 <div class="page-header__inner">
                     <ul class="thm-breadcrumb list-unstyled">
@@ -104,7 +104,7 @@
                                 <span class="icon-route"></span>
                             </div>
                             <div class="information__text">
-                                <p>86 Road Broklyn Street, 600 <br> New York, USA</p>
+                                <p>Iparvágány utca 9-11. 1211<br> Budapest, Magyarország</p>
                             </div>
                         </div>
                     </div>
@@ -116,8 +116,7 @@
                             </div>
                             <div class="information__text">
                                 <h4>
-                                    <a href="tel:926668880000" class="information__number-1">92 666 888 0000</a> <br>
-                                    <a href="tel:883326800" class="information__number-2">88 332 6800</a>
+                                    <a href="tel:+36205811353" class="information__number-1">+36 20 581 1353</a>
                                 </h4>
                             </div>
                         </div>
@@ -130,9 +129,8 @@
                             </div>
                             <div class="information__text">
                                 <h4>
-                                    <a href="mailto:needhelp@sominx.com"
-                                        class="information__mail-1">needhelp@sominx.com</a> <br>
-                                    <a href="mailto:info@company.com" class="information__mail-2">info@company.com</a>
+                                    <a href="mailto:info@karpitosgroup.hu"
+                                        class="information__mail-2">info@karpitosgroup.hu</a>
                                 </h4>
                             </div>
                         </div>
@@ -144,9 +142,9 @@
 
         <!--Google Map Start-->
         <section class="contact-page-google-map">
-            <iframe
-                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d4562.753041141002!2d-118.80123790098536!3d34.152323469614075!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80e82469c2162619%3A0xba03efb7998eef6d!2sCostco+Wholesale!5e0!3m2!1sbn!2sbd!4v1562518641290!5m2!1sbn!2sbd"
-                class="contact-page-google-map__one" allowfullscreen></iframe>
+            <iframe class="google-map__one"
+                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2698.938101407348!2d19.06076131552458!3d47.432650307971535!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4741e78b3dd33903%3A0xd1f1834fa62f56f3!2sBudapest%2C%20Iparv%C3%A1g%C3%A1ny%20u.%209-11%2C%201211!5e0!3m2!1shu!2shu!4v1680093139259!5m2!1shu!2shu"
+                allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
         </section>
         <!--Google Map End-->

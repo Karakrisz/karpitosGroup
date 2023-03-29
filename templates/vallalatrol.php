@@ -1,5 +1,5 @@
         <!--Page Header Start-->
-        <section class="page-header" style="background-image: url(assets/images/backgrounds/page-header-bg.jpg);">
+        <section class="page-header" style="background-image: url(Boaz/img/subpage.jpg);">
             <div class="container">
                 <div class="page-header__inner">
                     <ul class="thm-breadcrumb list-unstyled">
@@ -107,34 +107,31 @@
                     }}'>
                         <div class="swiper-wrapper">
                             <div class="swiper-slide">
-                                <img src="assets/images/brand/brand-1-1.png" alt="Kárpitos Group">
+                                <img src="Boaz/img/partner/amberwood.jpg" alt="Kárpitos Group">
                             </div><!-- /.swiper-slide -->
                             <div class="swiper-slide">
-                                <img src="assets/images/brand/brand-1-2.png" alt="Kárpitos Group">
+                                <img src="Boaz/img/partner/bohem.png" alt="Kárpitos Group">
                             </div><!-- /.swiper-slide -->
                             <div class="swiper-slide">
-                                <img src="assets/images/brand/brand-1-3.png" alt="Kárpitos Group">
+                                <img src="Boaz/img/partner/cafe.jpg" alt="Kárpitos Group">
                             </div><!-- /.swiper-slide -->
                             <div class="swiper-slide">
-                                <img src="assets/images/brand/brand-1-4.png" alt="Kárpitos Group">
+                                <img src="Boaz/img/partner/palkopetra.png" alt="Kárpitos Group">
                             </div><!-- /.swiper-slide -->
                             <div class="swiper-slide">
-                                <img src="assets/images/brand/brand-1-5.png" alt="Kárpitos Group">
+                                <img src="Boaz/img/partner/pentamen.png" alt="Kárpitos Group">
                             </div><!-- /.swiper-slide -->
                             <div class="swiper-slide">
-                                <img src="assets/images/brand/brand-1-1.png" alt="Kárpitos Group">
+                                <img src="Boaz/img/partner/silka.jpg" alt="Kárpitos Group">
                             </div><!-- /.swiper-slide -->
                             <div class="swiper-slide">
-                                <img src="assets/images/brand/brand-1-2.png" alt="Kárpitos Group">
+                                <img src="Boaz/img/partner/ten.png" alt="Kárpitos Group">
                             </div><!-- /.swiper-slide -->
                             <div class="swiper-slide">
-                                <img src="assets/images/brand/brand-1-3.png" alt="Kárpitos Group">
+                                <img src="Boaz/img/partner/unix.png" alt="Kárpitos Group">
                             </div><!-- /.swiper-slide -->
                             <div class="swiper-slide">
-                                <img src="assets/images/brand/brand-1-4.png" alt="Kárpitos Group">
-                            </div><!-- /.swiper-slide -->
-                            <div class="swiper-slide">
-                                <img src="assets/images/brand/brand-1-5.png" alt="Kárpitos Group">
+                                <img src="Boaz/img/partner/vathy.png" alt="Kárpitos Group">
                             </div><!-- /.swiper-slide -->
                         </div>
                     </div>
@@ -146,11 +143,11 @@
         <!--Discover World Start-->
         <section class="discover-world-two about-page-discover-world-two">
             <div class="discover-world-two-bg jarallax" data-jarallax data-speed="0.2" data-imgPosition="50% 0%"
-                style="background-image: url(assets/images/backgrounds/discover-world-two-bg.jpg)"></div>
+                style="background-image: url(Boaz/img/subpage2.jpg)"></div>
             <div class="discover-world-two__inner">
                 <h2 class="discover-world__title">Fedezze fel a <br> Kárpitos Group világát</h2>
                 <div class="discover-world__video-link">
-                    <a href="https://www.youtube.com/watch?v=Get7rqXYrbQ" class="video-popup">
+                    <a href="https://www.youtube.com/watch?v=7971OMRd6QM" class="video-popup">
                         <div class="discover-world__video-icon">
                             <span class="icon-play-button"></span>
                             <i class="ripple"></i>
@@ -165,7 +162,7 @@
         <section class="inspire about-page-inspire">
             <div class="inspire__container">
                 <div class="inspire-bg jarallax" data-jarallax data-speed="0.2" data-imgPosition="50% 0%"
-                    style="background-image: url(assets/images/backgrounds/inspire-bg.jpg)"></div>
+                    style="background-image: url(Boaz/img/ali.jpg)"></div>
                 <div class="inspire-bg-overly"></div>
                 <div class="container">
                     <div class="row">

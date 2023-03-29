@@ -7,6 +7,7 @@ $cleaned = explode("?", $uri)[0];
 route('/', 'homeController');
 route('/vallalatrol', 'aboutController');
 route('/projektek', 'projectsController');
+route('/szolgaltatasok', 'servicesController');
 route('/kapcsolat', 'contactController');
 
 

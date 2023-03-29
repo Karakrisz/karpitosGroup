@@ -4,7 +4,8 @@
             <div class="main-menu-wrapper-inner clearfix">
                 <div class="main-menu-wrapper__left clearfix">
                     <div class="main-menu-wrapper__logo">
-                        <a href="index.html"><img src="assets/images/resources/logo-1.jpg" alt="Kárpitos Group"></a>
+                        <a href="/"><img class="main-menu-wrapper__logo__img" src="Boaz/img/logo.png"
+                                alt="Kárpitos Group"></a>
                     </div>
                     <div class="main-menu-wrapper__main-menu">
                         <a href="#" class="mobile-nav__toggler"><i class="fa fa-bars"></i></a>
@@ -14,7 +15,7 @@
                             </li>
                             <li><a href="/vallalatrol">Rólunk</a></li>
                             <li>
-                                <a href="#">Szolgáltatások</a>
+                                <a href="/szolgaltatasok">Szolgáltatások</a>
                             </li>
                             <li>
                                 <a href="/projektek">Projektek</a>
@@ -34,7 +35,9 @@
                         </div>
                     </div>
                     <div class="main-menu-wrapper__search-box">
-                        <a href="#" class="main-menu-wrapper__search search-toggler icon-magnifying-glass"></a>
+                        <a target="_blank"
+                            href="https://www.google.com/maps/place/Budapest,+Iparv%C3%A1g%C3%A1ny+u.+9-11,+1211/@47.4326503,19.0607613,17z/data=!3m1!4b1!4m6!3m5!1s0x4741e78b3dd33903:0xd1f1834fa62f56f3!8m2!3d47.4326467!4d19.06295!16s%2Fg%2F11jn4fb6m2?authuser=0"
+                            class="main-menu-wrapper__search  icon-magnifying-glass"></a>
                     </div>
                 </div>
             </div>

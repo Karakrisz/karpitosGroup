@@ -7,11 +7,13 @@
     <title><?php echo 'Kárpitos Group - ' . $title; ?></title>
 
     <!-- favicons Icons -->
-    <link rel="apple-touch-icon" sizes="180x180" href="assets/images/favicons/apple-touch-icon.png" />
-    <link rel="icon" type="image/png" sizes="32x32" href="assets/images/favicons/favicon-32x32.png" />
-    <link rel="icon" type="image/png" sizes="16x16" href="assets/images/favicons/favicon-16x16.png" />
-    <link rel="manifest" href="assets/images/favicons/site.webmanifest" />
-    <meta name="description" content="Sominx HTML Template For Business" />
+    <link rel="apple-touch-icon" sizes="180x180" href="Boaz/img/fav/apple-touch-icon.png" />
+    <link rel="icon" type="image/png" sizes="32x32" href="Boaz/img/fav/favicon-32x32.png" />
+    <link rel="icon" type="image/png" sizes="16x16" href="Boaz/img/fav/favicon-16x16.png" />
+    <link rel="icon" href="Boaz/img/favicon.ico">
+
+    <!-- <link rel="manifest" href="assets/images/favicons/site.webmanifest" /> -->
+    <meta name="description" content="" />
 
     <!-- fonts -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -53,7 +55,7 @@
 
 <body>
     <div class="preloader">
-        <img class="preloader__image" width="60" src="assets/images/loader.png" alt="Kárpitos Group" />
+        <img class="preloader__image" width="60" src="Boaz/img/logo.png" alt="Kárpitos Group" />
     </div>
     <!-- /.preloader -->
     <div class="page-wrapper">
