@@ -68,6 +68,10 @@
     width: 155px;
 }
 
+.main-slider .image-layer-overlay {
+    background: rgba(var(--thm-black-rgb), .3);
+}
+
 
 /********************  Main menu end **********************/
 

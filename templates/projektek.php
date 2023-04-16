@@ -1,131 +1,275 @@
-        <!--Page Header Start-->
-        <section class="page-header" style="background-image: url(Boaz/img/subpage.jpg);">
-            <div class="container">
-                <div class="page-header__inner">
-                    <ul class="thm-breadcrumb list-unstyled">
-                        <li><a href="/">Kezdőlap</a></li>
-                        <li><span>/</span></li>
-                        <li>Projektek</li>
-                    </ul>
-                    <h2>Projekteink</h2>
-                </div>
-            </div>
-        </section>
-        <!--Page Header End-->
+<!--Page Header Start-->
+<section class="page-header" style="background-image: url(Boaz/img/subpage.jpg);">
+    <div class="container">
+        <div class="page-header__inner">
+            <ul class="thm-breadcrumb list-unstyled">
+                <li><a href="/">Kezdőlap</a></li>
+                <li><span>/</span></li>
+                <li>Projektek</li>
+            </ul>
+            <h2>Projekteink</h2>
+        </div>
+    </div>
+</section>
+<!--Page Header End-->
 
 
-        <!--Project Page Start-->
-        <section class="project-page">
-            <div class="container">
-                <div class="row">
-                    <div class="col-xl-12">
-                        <ul class="project-filter style1 post-filter has-dynamic-filters-counter list-unstyled">
-                            <li data-filter=".filter-item" class="active"><span class="filter-text">All</span></li>
-                            <li data-filter=".bra"><span class="filter-text">Branding</span></li>
-                            <li data-filter=".illus"><span class="filter-text">illustration</span></li>
-                            <li data-filter=".photo"><span class="filter-text">Photography</span></li>
-                            <li data-filter=".web"><span class="filter-text last-pd-none">Web design</span></li>
-                        </ul>
-                    </div>
-                </div>
-                <div class="row filter-layout masonary-layout">
-                    <div class="col-xl-4 col-lg-6 col-md-6 filter-item bra illus web">
-                        <!--Project One Single-->
-                        <div class="project-one__single">
-                            <div class="project-one__img">
-                                <img src="assets/images/resources/project-page-1.jpg" alt="Kárpitos Group">
-                                <div class="project-one__content">
-                                    <h5 class="project-one__tagline">Designing <span>/</span> Graphics</h5>
-                                    <h3 class="project-one__tilte"><a href="project-details.html">Fimlor experience</a>
-                                    </h3>
-                                    <div class="project-one__arrow">
-                                        <a href="project-details.html"><span class="icon-right-arrow-angle"></span></a>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-xl-4 col-lg-6 col-md-6 filter-item bra photo web">
-                        <!--Project One Single-->
-                        <div class="project-one__single">
-                            <div class="project-one__img">
-                                <img src="assets/images/resources/project-page-2.jpg" alt="Kárpitos Group">
-                                <div class="project-one__content">
-                                    <h5 class="project-one__tagline">Designing <span>/</span> Graphics</h5>
-                                    <h3 class="project-one__tilte"><a href="project-details.html">Fimlor experience</a>
-                                    </h3>
-                                    <div class="project-one__arrow">
-                                        <a href="project-details.html"><span class="icon-right-arrow-angle"></span></a>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-xl-4 col-lg-6 col-md-6 filter-item bra illus photo">
-                        <!--Project One Single-->
-                        <div class="project-one__single">
-                            <div class="project-one__img">
-                                <img src="assets/images/resources/project-page-3.jpg" alt="Kárpitos Group">
-                                <div class="project-one__content">
-                                    <h5 class="project-one__tagline">Designing <span>/</span> Graphics</h5>
-                                    <h3 class="project-one__tilte"><a href="project-details.html">Fimlor experience</a>
-                                    </h3>
-                                    <div class="project-one__arrow">
-                                        <a href="project-details.html"><span class="icon-right-arrow-angle"></span></a>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-xl-4 col-lg-6 col-md-6 filter-item photo illus web">
-                        <!--Project One Single-->
-                        <div class="project-one__single">
-                            <div class="project-one__img">
-                                <img src="assets/images/resources/project-page-4.jpg" alt="Kárpitos Group">
-                                <div class="project-one__content">
-                                    <h5 class="project-one__tagline">Designing <span>/</span> Graphics</h5>
-                                    <h3 class="project-one__tilte"><a href="project-details.html">Fimlor experience</a>
-                                    </h3>
-                                    <div class="project-one__arrow">
-                                        <a href="project-details.html"><span class="icon-right-arrow-angle"></span></a>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-xl-4 col-lg-6 col-md-6 filter-item bra illus web">
-                        <!--Project One Single-->
-                        <div class="project-one__single">
-                            <div class="project-one__img">
-                                <img src="assets/images/resources/project-page-5.jpg" alt="Kárpitos Group">
-                                <div class="project-one__content">
-                                    <h5 class="project-one__tagline">Designing <span>/</span> Graphics</h5>
-                                    <h3 class="project-one__tilte"><a href="project-details.html">Fimlor experience</a>
-                                    </h3>
-                                    <div class="project-one__arrow">
-                                        <a href="project-details.html"><span class="icon-right-arrow-angle"></span></a>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-xl-4 col-lg-6 col-md-6 filter-item photo illus web">
-                        <!--Project One Single-->
-                        <div class="project-one__single">
-                            <div class="project-one__img">
-                                <img src="assets/images/resources/project-page-6.jpg" alt="Kárpitos Group">
-                                <div class="project-one__content">
-                                    <h5 class="project-one__tagline">Designing <span>/</span> Graphics</h5>
-                                    <h3 class="project-one__tilte"><a href="project-details.html">Fimlor experience</a>
-                                    </h3>
-                                    <div class="project-one__arrow">
-                                        <a href="project-details.html"><span class="icon-right-arrow-angle"></span></a>
-                                    </div>
-                                </div>
-                            </div>
+<!--Project One Start-->
+<section class="project-one">
+    <div class="container">
+        <div class="section-title text-center">
+            <span class="section-title__tagline">Nemrégiben befejezett munka</span>
+            <h2 class="section-title__title">Projekt bemutatónk</h2>
+        </div>
+        <div class="project-one__carousel owl-theme owl-carousel">
+            <!--Project One Single-->
+            <div class="project-one__single">
+                <div class="project-one__img">
+                    <img src="Boaz/img/project/FOUR-SEASONS.jpg" alt="Kárpitos Group">
+                    <div class="project-one__content">
+                        <h5 class="project-one__tagline">Tervezés <span>/</span> Megvalósítás</h5>
+                        <h3 class="project-one__tilte"><a>Four seasons</a></h3>
+                        <div class="project-one__arrow">
+                            <a><span class="icon-right-arrow-angle"></span></a>
                         </div>
                     </div>
                 </div>
             </div>
-        </section>
-        <!--Project Page End-->
+            <!--Project One Single-->
+            <div class="project-one__single">
+                <div class="project-one__img">
+                    <img src="Boaz/img/project/FOUR-SEASONS2.jpg" alt="Kárpitos Group">
+                    <div class="project-one__content">
+                        <h5 class="project-one__tagline">Tervezés <span>/</span> Megvalósítás</h5>
+                        <h3 class="project-one__tilte"><a>Four seasons</a></h3>
+                        <div class="project-one__arrow">
+                            <a><span class="icon-right-arrow-angle"></span></a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!--Project One Single-->
+            <div class="project-one__single">
+                <div class="project-one__img">
+                    <img src="Boaz/img/project/FOUR-SEASONS3.jpg" alt="Kárpitos Group">
+                    <div class="project-one__content">
+                        <h5 class="project-one__tagline">Tervezés <span>/</span> Megvalósítás</h5>
+                        <h3 class="project-one__tilte"><a>Four seasons</a></h3>
+                        <div class="project-one__arrow">
+                            <a><span class="icon-right-arrow-angle"></span></a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!--Project One Single-->
+            <div class="project-one__single">
+                <div class="project-one__img">
+                    <img src="Boaz/img/project/haloszoba.jpg" alt="Kárpitos Group">
+                    <div class="project-one__content">
+                        <h5 class="project-one__tagline">Tervezés <span>/</span> Megvalósítás</h5>
+                        <h3 class="project-one__tilte"><a>Hálószoba</a></h3>
+                        <div class="project-one__arrow">
+                            <a><span class="icon-right-arrow-angle"></span></a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!--Project One Single-->
+            <div class="project-one__single">
+                <div class="project-one__img">
+                    <img src="Boaz/img/project/irodai-varo2.jpg" alt="Kárpitos Group">
+                    <div class="project-one__content">
+                        <h5 class="project-one__tagline">Tervezés <span>/</span> Megvalósítás</h5>
+                        <h3 class="project-one__tilte"><a>Irodai váró</a></h3>
+                        <div class="project-one__arrow">
+                            <a><span class="icon-right-arrow-angle"></span></a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!--Project One Single-->
+            <div class="project-one__single">
+                <div class="project-one__img">
+                    <img src="Boaz/img/project/maganlakas.jpg" alt="Kárpitos Group">
+                    <div class="project-one__content">
+                        <h5 class="project-one__tagline">Tervezés <span>/</span> Megvalósítás</h5>
+                        <h3 class="project-one__tilte"><a>Magánlakás</a></h3>
+                        <div class="project-one__arrow">
+                            <a><span class="icon-right-arrow-angle"></span></a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!--Project One Single-->
+            <div class="project-one__single">
+                <div class="project-one__img">
+                    <img src="Boaz/img/project/maganlakas2.jpg" alt="Kárpitos Group">
+                    <div class="project-one__content">
+                        <h5 class="project-one__tagline">Tervezés <span>/</span> Megvalósítás</h5>
+                        <h3 class="project-one__tilte"><a>Magánlakás</a></h3>
+                        <div class="project-one__arrow">
+                            <a><span class="icon-right-arrow-angle"></span></a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!--Project One Single-->
+            <div class="project-one__single">
+                <div class="project-one__img">
+                    <img src="Boaz/img/project/maganlakas3.jpg" alt="Kárpitos Group">
+                    <div class="project-one__content">
+                        <h5 class="project-one__tagline">Tervezés <span>/</span> Megvalósítás</h5>
+                        <h3 class="project-one__tilte"><a>Magánlakás</a></h3>
+                        <div class="project-one__arrow">
+                            <a><span class="icon-right-arrow-angle"></span></a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!--Project One Single-->
+            <div class="project-one__single">
+                <div class="project-one__img">
+                    <img src="Boaz/img/project/dedas.jpg" alt="Kárpitos Group">
+                    <div class="project-one__content">
+                        <h5 class="project-one__tagline">Tervezés <span>/</span> Megvalósítás</h5>
+                        <h3 class="project-one__tilte"><a>Dedas</a></h3>
+                        <div class="project-one__arrow">
+                            <a><span class="icon-right-arrow-angle"></span></a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!--Project One Single-->
+            <div class="project-one__single">
+                <div class="project-one__img">
+                    <img src="Boaz/img/project/dedas2.jpg" alt="Kárpitos Group">
+                    <div class="project-one__content">
+                        <h5 class="project-one__tagline">Tervezés <span>/</span> Megvalósítás</h5>
+                        <h3 class="project-one__tilte"><a>Dedas</a></h3>
+                        <div class="project-one__arrow">
+                            <a><span class="icon-right-arrow-angle"></span></a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!--Project One Single-->
+            <div class="project-one__single">
+                <div class="project-one__img">
+                    <img src="Boaz/img/project/dedas3.jpg" alt="Kárpitos Group">
+                    <div class="project-one__content">
+                        <h5 class="project-one__tagline">Tervezés <span>/</span> Megvalósítás</h5>
+                        <h3 class="project-one__tilte"><a>Dedas</a></h3>
+                        <div class="project-one__arrow">
+                            <a><span class="icon-right-arrow-angle"></span></a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!--Project One Single-->
+            <div class="project-one__single">
+                <div class="project-one__img">
+                    <img src="Boaz/img/project/makett.jpg" alt="Kárpitos Group">
+                    <div class="project-one__content">
+                        <h5 class="project-one__tagline">Tervezés <span>/</span> Megvalósítás</h5>
+                        <h3 class="project-one__tilte"><a>Makett</a></h3>
+                        <div class="project-one__arrow">
+                            <a><span class="icon-right-arrow-angle"></span></a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!--Project One Single-->
+            <div class="project-one__single">
+                <div class="project-one__img">
+                    <img src="Boaz/img/project/makett2.jpg" alt="Kárpitos Group">
+                    <div class="project-one__content">
+                        <h5 class="project-one__tagline">Tervezés <span>/</span> Megvalósítás</h5>
+                        <h3 class="project-one__tilte"><a>Makett</a></h3>
+                        <div class="project-one__arrow">
+                            <a><span class="icon-right-arrow-angle"></span></a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!--Project One Single-->
+            <div class="project-one__single">
+                <div class="project-one__img">
+                    <img src="Boaz/img/project/neprajzi-muzem-kiallitas.jpg" alt="Kárpitos Group">
+                    <div class="project-one__content">
+                        <h5 class="project-one__tagline">Tervezés <span>/</span> Megvalósítás</h5>
+                        <h3 class="project-one__tilte"><a>Néprajzi múzem kiállitás</a></h3>
+                        <div class="project-one__arrow">
+                            <a><span class="icon-right-arrow-angle"></span></a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!--Project One Single-->
+            <div class="project-one__single">
+                <div class="project-one__img">
+                    <img src="Boaz/img/project/neprajzi-muzem-kiallitas2.jpg" alt="Kárpitos Group">
+                    <div class="project-one__content">
+                        <h5 class="project-one__tagline">Tervezés <span>/</span> Megvalósítás</h5>
+                        <h3 class="project-one__tilte"><a>Néprajzi múzem kiállitás</a></h3>
+                        <div class="project-one__arrow">
+                            <a><span class="icon-right-arrow-angle"></span></a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!--Project One Single-->
+            <div class="project-one__single">
+                <div class="project-one__img">
+                    <img src="Boaz/img/project/saint-tropez-asztal.jpg" alt="Kárpitos Group">
+                    <div class="project-one__content">
+                        <h5 class="project-one__tagline">Tervezés <span>/</span> Megvalósítás</h5>
+                        <h3 class="project-one__tilte"><a>Saint tropez asztal</a></h3>
+                        <div class="project-one__arrow">
+                            <a><span class="icon-right-arrow-angle"></span></a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!--Project One Single-->
+            <div class="project-one__single">
+                <div class="project-one__img">
+                    <img src="Boaz/img/project/saint-tropez-fotel.jpg" alt="Kárpitos Group">
+                    <div class="project-one__content">
+                        <h5 class="project-one__tagline">Tervezés <span>/</span> Megvalósítás</h5>
+                        <h3 class="project-one__tilte"><a>Saint tropez fotel</a></h3>
+                        <div class="project-one__arrow">
+                            <a><span class="icon-right-arrow-angle"></span></a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!--Project One Single-->
+            <div class="project-one__single">
+                <div class="project-one__img">
+                    <img src="Boaz/img/project/saint-tropez-salon-kiallitas.jpg" alt="Kárpitos Group">
+                    <div class="project-one__content">
+                        <h5 class="project-one__tagline">Tervezés <span>/</span> Megvalósítás</h5>
+                        <h3 class="project-one__tilte"><a>Saint tropez salon kiállitás</a></h3>
+                        <div class="project-one__arrow">
+                            <a><span class="icon-right-arrow-angle"></span></a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!--Project One Single-->
+            <div class="project-one__single">
+                <div class="project-one__img">
+                    <img src="Boaz/img/project/tervezes.jpg" alt="Kárpitos Group">
+                    <div class="project-one__content">
+                        <h5 class="project-one__tagline">Tervezés <span>/</span> Megvalósítás</h5>
+                        <h3 class="project-one__tilte"><a>Tervezés</a></h3>
+                        <div class="project-one__arrow">
+                            <a><span class="icon-right-arrow-angle"></span></a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<!--Project One End-->

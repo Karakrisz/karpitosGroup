@@ -263,7 +263,7 @@
             <div class="discover-world-bg" style="background-image: url(Boaz/img/video.jpg)"></div>
             <h2 class="discover-world__title">Fedezze fel a <br> Kárpitos Group világát</h2>
             <div class="discover-world__video-link">
-                <a href="https://www.youtube.com/watch?v=f48APXo5TT4" class="video-popup">
+                <a href="https://www.youtube.com/watch?v=7971OMRd6QM" class="video-popup">
                     <div class="discover-world__video-icon">
                         <span class="icon-play-button"></span>
                         <i class="ripple"></i>
@@ -479,36 +479,42 @@
         <div class="row">
             <div class="col-xl-4 col-lg-4 wow fadeInUp" data-wow-delay="100ms">
                 <!--Three Boxes Single-->
-                <div class="three-boxes__single">
-                    <div class="three-boxes__img">
-                        <img src="Boaz/img/project/saint-tropez-fotel.jpg" alt="Kárpitos Group">
-                        <div class="three-boxes__content">
-                            <h3>Növekvő <br> vállalkozások</h3>
+                <a href="/projektek">
+                    <div class="three-boxes__single">
+                        <div class="three-boxes__img">
+                            <img src="Boaz/img/project/saint-tropez-fotel.jpg" alt="Kárpitos Group">
+                            <div class="three-boxes__content">
+                                <h3>Növekvő <br> vállalkozások</h3>
+                            </div>
                         </div>
                     </div>
-                </div>
+                </a>
             </div>
             <div class="col-xl-4 col-lg-4 wow fadeInUp" data-wow-delay="200ms">
                 <!--Three Boxes Single-->
-                <div class="three-boxes__single">
-                    <div class="three-boxes__img">
-                        <img src="Boaz/img/project/dubai.jpg" alt="Kárpitos Group">
-                        <div class="three-boxes__content">
-                            <h3>Kapcsolatok <br> építése</h3>
+                <a href="/projektek">
+                    <div class="three-boxes__single">
+                        <div class="three-boxes__img">
+                            <img src="Boaz/img/project/dubai.jpg" alt="Kárpitos Group">
+                            <div class="three-boxes__content">
+                                <h3>Kapcsolatok <br> építése</h3>
+                            </div>
                         </div>
                     </div>
-                </div>
+                </a>
             </div>
             <div class="col-xl-4 col-lg-4 wow fadeInUp" data-wow-delay="300ms">
                 <!--Three Boxes Single-->
-                <div class="three-boxes__single">
-                    <div class="three-boxes__img">
-                        <img src="Boaz/img/project/tervezes.jpg" alt="Kárpitos Group">
-                        <div class="three-boxes__content">
-                            <h3>Szakmai <br> kiválóság</h3>
+                <a href="/projektek">
+                    <div class="three-boxes__single">
+                        <div class="three-boxes__img">
+                            <img src="Boaz/img/project/tervezes.jpg" alt="Kárpitos Group">
+                            <div class="three-boxes__content">
+                                <h3>Szakmai <br> kiválóság</h3>
+                            </div>
                         </div>
                     </div>
-                </div>
+                </a>
             </div>
         </div>
     </div>

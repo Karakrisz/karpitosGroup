@@ -20,11 +20,10 @@
         <div class="row">
             <div class="col-xl-12">
                 <ul class="project-filter style1 post-filter has-dynamic-filters-counter list-unstyled">
-                    <li data-filter=".filter-item" class="active"><span class="filter-text">All</span></li>
-                    <li data-filter=".bra"><span class="filter-text">Branding</span></li>
-                    <li data-filter=".illus"><span class="filter-text">illustration</span></li>
-                    <li data-filter=".photo"><span class="filter-text">Photography</span></li>
-                    <li data-filter=".web"><span class="filter-text last-pd-none">Web design</span></li>
+                    <li data-filter=".filter-item" class="active"><span class="filter-text">Összes</span></li>
+                    <li data-filter=".bra"><span class="filter-text">Egyedi Gyártás</span></li>
+                    <li data-filter=".illus"><span class="filter-text">Bútor felújítás kárpitozás</span></li>
+                    <li data-filter=".photo"><span class="filter-text">Belsőépítész / tervezés</span></li>
                 </ul>
             </div>
         </div>
